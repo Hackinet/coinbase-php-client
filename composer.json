@@ -1,5 +1,5 @@
 {
-    "name": "hackinet/hackinet-flic-cbc-php",
+    "name": "hackinet/unofficial-cbc-php",
     "description": "Unofficial Coinbase API library",
     "keywords": [ "bitcoin", "flic" ],
     "homepage": "https://github.com/Hackinet/coinbase-php-client",
