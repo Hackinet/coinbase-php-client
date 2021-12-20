@@ -5,6 +5,7 @@
     "homepage": "https://github.com/Hackinet/coinbase-php-client",
     "type": "library",
     "license": "Apache-2.0",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "Coinbase\\Wallet\\": "src/" }
     },
