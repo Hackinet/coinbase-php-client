@@ -1,7 +1,7 @@
 {
-    "name": "hackinet/coinbase",
+    "name": "hackinet/hackinet-flic-cbc-php",
     "description": "Unofficial Coinbase API library",
-    "keywords": [ "bitcoin", "coinbase" ],
+    "keywords": [ "bitcoin", "flic" ],
     "homepage": "https://github.com/Hackinet/coinbase-php-client",
     "type": "library",
     "license": "Apache-2.0",
@@ -13,9 +13,6 @@
         "guzzlehttp/guzzle": "^7.0",
         "psr/http-message": "^1.0",
         "psr/log": "^1.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^4.7"
     },
     "config": {
         "bin-dir": "bin/"
